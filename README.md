@@ -22,5 +22,6 @@
 
 2026.02.04:
     -assigned hw:
+    
         -1.out of place❌️
         -2.Moointime 이해(?)✅
