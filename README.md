@@ -19,3 +19,8 @@
         - 1.SpeedingTicket✅
         - 2.DontbeBlast✅
         - 3.It's mooin' time(하는중)
+
+2026.02.04:
+    -assigned hw:
+        -1.out of place❌️
+        -2.Moointime 이해(?)✅
