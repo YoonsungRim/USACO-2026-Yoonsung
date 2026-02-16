@@ -28,6 +28,7 @@
 
 2026.02.15:
     -assigned hw:
+  
          -1. Why did the cow cross the road✅
          -2. Load_balancing 5/10 (time limit)
          -3. Cow tipping ❌️ (in progress)
