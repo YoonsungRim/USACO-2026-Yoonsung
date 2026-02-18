@@ -31,4 +31,11 @@
   
          -1. Why did the cow cross the road✅
          -2. Load_balancing 5/10 (time limit)
-         -3. Cow tipping ❌️ (in progress)
+         -3. Cow tipping ✅ (in progress)
+
+2026.02.18
+    -hw:
+
+        -1.Even More Odd photos ✅
+        -2.The Great Revegetation ✅
+        -3.Livestock Lineup❌️
